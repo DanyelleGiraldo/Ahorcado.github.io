@@ -1,5 +1,3 @@
-# Ahorcado.github.io
-
 # Juego del Ahorcado
 
 Este es un juego clásico del ahorcado implementado utilizando JavaScript, HTML y CSS. El objetivo del juego es adivinar una palabra oculta antes de quedarse sin intentos. Los jugadores ingresan letras y el juego proporciona retroalimentación sobre las letras adivinadas y los intentos restantes.
